@@ -35,8 +35,7 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web applications"),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -44,32 +43,32 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "Html-5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "Css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Bootstrap",
+      fontAwesomeClassname: "fab fa-bootstrap"
     },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "Reactjs",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
+      skillName: "Nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
     },
     {
       skillName: "npm",
@@ -78,22 +77,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
     }
   ]
 };
@@ -129,18 +112,22 @@ const workExperiences = {
       company: "Northeastern University",
       companylogo: require("./assets/images/northeastern.png"),
       date: "June 2020 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Graduate Teaching Assistant | CSYE 7230 : Software Engineering",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Mentored students to learn Software Development Life Cycle [SDLC] & formulating UML Diagrams",
+        "Graded assignments of students weekly, assessed their performance and provided them with project feedback"
       ]
     },
     {
       role: "Web Developer",   
       company: "DA-IICT",
       companylogo: require("./assets/images/dhirubhai.png"),
-      date: "May 2017 – July 2017",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "May 2018 – July 2018",
+      desc: "Designed & developed a full-stack web application to help end-users visualize how different patterns & combinations of tiles would look in their space",
+      descBullets: [
+        "Used HTML5, CSS3, Bootstrap, JavaScript, jQuery, and Firebase as database",
+        "Led a 4-person team, following an Agile software development life cycle and worked on Microsoft’s GIT platform in Visual Studio Team Services"
+      ]
     }
   ]
 };
@@ -163,22 +150,20 @@ const achievementSection = {
   subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achivementsCards: [
-    // {
-    //   title: "Google Code-In Finalist",
-    //   subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-    //   image: require("./assets/images/codeInLogo.webp"),
-    //   footerLink: [
-    //     { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-    //     { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-    //     { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
-    //   ]
-    // },
-    // {
-    //   title: "Google Assistant Action",
-    //   subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-    //   image: require("./assets/images/googleAssistantLogo.webp"),
-    //   footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
-    // }
+    {
+      title: "AWS Certified Cloud Practitioner",
+      subtitle: "",
+      image: require("./assets/images/aws_cloud.png"),
+      footerLink: [
+        { name: "Certification", url: "https://drive.google.com/file/d/1Mgpbw33R9q3QgZmAJJtQoosT2uaPu1r1/view?usp=sharing" }
+      ]
+    },
+    {
+      title: "JP Morgan Software Engineering Virtual Experience",
+      subtitle: "",
+      image: require("./assets/images/jp_virtual.jpg"),
+      footerLink: [{ name: "Certification", url: "https://drive.google.com/file/d/1paiVe3UdO4pzgOWaURnwECGH7lJmD0Dq/view?usp=sharing" }]
+    }
   ]
 };
 

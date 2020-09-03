@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/DeepPortfolio/static/css/main.4b88ee4d.chunk.css",
+    "main.js": "/DeepPortfolio/static/js/main.dc594e18.chunk.js",
+    "main.js.map": "/DeepPortfolio/static/js/main.dc594e18.chunk.js.map",
+    "runtime-main.js": "/DeepPortfolio/static/js/runtime-main.15992ed6.js",
+    "runtime-main.js.map": "/DeepPortfolio/static/js/runtime-main.15992ed6.js.map",
+    "static/js/2.bab95aa3.chunk.js": "/DeepPortfolio/static/js/2.bab95aa3.chunk.js",
+    "static/js/2.bab95aa3.chunk.js.map": "/DeepPortfolio/static/js/2.bab95aa3.chunk.js.map",
+    "static/css/3.c7b31c95.chunk.css": "/DeepPortfolio/static/css/3.c7b31c95.chunk.css",
+    "static/js/3.23fb8287.chunk.js": "/DeepPortfolio/static/js/3.23fb8287.chunk.js",
+    "static/js/3.23fb8287.chunk.js.map": "/DeepPortfolio/static/js/3.23fb8287.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/DeepPortfolio/static/css/4.54df59d4.chunk.css",
+    "static/js/4.97caef18.chunk.js": "/DeepPortfolio/static/js/4.97caef18.chunk.js",
+    "static/js/4.97caef18.chunk.js.map": "/DeepPortfolio/static/js/4.97caef18.chunk.js.map",
+    "index.html": "/DeepPortfolio/index.html",
+    "precache-manifest.92eefe11a7d40fb89f9e56a711b4958e.js": "/DeepPortfolio/precache-manifest.92eefe11a7d40fb89f9e56a711b4958e.js",
+    "service-worker.js": "/DeepPortfolio/service-worker.js",
+    "static/css/3.c7b31c95.chunk.css.map": "/DeepPortfolio/static/css/3.c7b31c95.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/DeepPortfolio/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.4b88ee4d.chunk.css.map": "/DeepPortfolio/static/css/main.4b88ee4d.chunk.css.map",
+    "static/media/index.css": "/DeepPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.png": "/DeepPortfolio/static/media/airbnbLogo.c59720d6.png",
+    "static/media/codeInLogo.webp": "/DeepPortfolio/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMail.webp": "/DeepPortfolio/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/DeepPortfolio/static/media/developerActivity.59389695.svg",
+    "static/media/facebookLogo.png": "/DeepPortfolio/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/googleAssistantLogo.webp": "/DeepPortfolio/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/logo.svg": "/DeepPortfolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/DeepPortfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/DeepPortfolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pwaLogo.webp": "/DeepPortfolio/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/quoraLogo.png": "/DeepPortfolio/static/media/quoraLogo.4b2938b9.png",
+    "static/media/saayaHealthLogo.webp": "/DeepPortfolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/DeepPortfolio/static/media/skill.34409398.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15992ed6.js",
+    "static/js/2.bab95aa3.chunk.js",
+    "static/css/main.4b88ee4d.chunk.css",
+    "static/js/main.dc594e18.chunk.js"
+  ]
+}

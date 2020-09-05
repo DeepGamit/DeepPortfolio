@@ -31,7 +31,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web applications"),
@@ -78,13 +78,54 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     }
+  ],
+
+  competencies : [
+      {
+        title: "Programming Languages",
+        content : [
+          "Java", "JavaScript[ES6]", "SQL", "TypeScript", "Python", "C++", "C"
+        ]
+      }, 
+      {
+        title: "Web Technologies",
+        content : [
+          "HTML5", "CSS3", "Bootstrap", "ReactJs", "NodeJs", "jQuery", "ExpressJs", "Redux", "JSX", "RESTful API", "GraphQL", "JSON"
+        ]
+      }, 
+      {
+        title: "Java / J2EE",
+        content : [
+          "Spring MVC", "Hibernate ORM", "JSP", "Servlets", "JSTL", "JavaBeans", "XML", "Maven"
+        ]
+      },
+      {
+        title: "Database",
+        content : [
+          "MySQL", "JDBC", "MongoDB", "PostgreSQL", "Firebase", "phpMyAdmin", "DB4O"
+        ]
+      },
+      {
+        title: "Tools / Software",
+        content : [
+          "Netbeans", "Visual Studio Code", "Eclipse", "Spring Tool Suite", "Apache Tomcat", "Postman", "Visual Studio Team Services", "Jupyter Notebook"
+        ]
+      },
+      {
+        title: "Miscellaneous",
+        content : [
+          "Git", "AWS", "StarUML"
+        ]
+      }
   ]
+
+
 };
 
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design",  //Insert stack or technology you have experience in

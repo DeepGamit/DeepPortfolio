@@ -4,6 +4,7 @@
 // Your Summary And Greeting Section
 
 import emoji from "react-easy-emoji";
+import IconNodejs from 'react-devicon/nodejs/original-wordmark'
 
 const greeting = {
   /* Your Summary And Greeting Section */
@@ -43,40 +44,60 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "Html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Java",
+      fontAwesomeClassname: "devicon-java-plain"
     },
     {
-      skillName: "Css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "html5",
+      fontAwesomeClassname: "devicon-html5-plain"
+    },
+    {
+      skillName: "css3",
+      fontAwesomeClassname: "devicon-css3-plain"
     },
     {
       skillName: "Bootstrap",
-      fontAwesomeClassname: "fab fa-bootstrap"
+      fontAwesomeClassname: "devicon-bootstrap-plain"
     },
     {
       skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      fontAwesomeClassname: "devicon-javascript-plain"
     },
     {
-      skillName: "Reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "ReactJS",
+      fontAwesomeClassname: "devicon-react-plain"
     },
     {
-      skillName: "Nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "NodeJS",
+      fontAwesomeClassname: "devicon-nodejs-plain-wordmark"
     },
     {
-      skillName: "Java",
-      fontAwesomeClassname: "fab fa-java"
+      skillName: "ExpressJS",
+      fontAwesomeClassname: "devicon-express-original"
+    },
+    {
+      skillName: "jQuery",
+      fontAwesomeClassname: "devicon-jquery-plain"
+    },
+    {
+      skillName: "MongoDB",
+      fontAwesomeClassname: "devicon-mongodb-plain"
+    },
+    {
+      skillName: "Python",
+      fontAwesomeClassname: "devicon-python-plain"
+    },
+    {
+      skillName: "TypeScript",
+      fontAwesomeClassname: "devicon-typescript-plain"
     },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "Visual Studio",
+      fontAwesomeClassname: "devicon-visualstudio-plain"
     }
   ],
 

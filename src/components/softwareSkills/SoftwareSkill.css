@@ -1,7 +1,7 @@
 .dev-icons {
   padding-left: 0;
   list-style: none;
-  font-size: 3rem;
+  font-size: 3.5rem;
   margin-bottom: 0px;
   margin-top: 0px;
   text-align: center;
@@ -10,7 +10,6 @@
 .software-skill-inline {
   display: inline-block;
   margin-right: 20px;
-  margin-bottom: 20px;
 }
 
 .software-skill-inline > i {
@@ -18,12 +17,25 @@
 }
 
 .software-skill-inline > i:hover {
-  color: #645beb;
+  background: linear-gradient(to right, rgb(177, 91, 218), rgb(230, 189, 75), rgb(46, 170, 253), #00b7c7, #B294FF, #57E6E6);
+  background-size: 500% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient 2s linear infinite;
 }
+
 .software-skill-inline > p {
   color: #868e96;
-  font-size: 10px;
+  font-size: 14px;
+  margin: 0px;
+  padding: -30px;
 }
 .software-skill-inline > i:hover ~ p{
-  color: #645beb;
+  background: linear-gradient(to right, rgb(177, 91, 218), rgb(230, 189, 75), rgb(46, 170, 253), #00b7c7, #B294FF, #57E6E6);
+  background-size: 500% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient 2s linear infinite;
 }

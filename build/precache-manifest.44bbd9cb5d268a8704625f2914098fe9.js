@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65ee59ddf4468d75c8a6dade132b4b69",
+    "revision": "90241939bd937de7226414278c0c5fad",
     "url": "/DeepPortfolio/index.html"
   },
   {
-    "revision": "6a5487993f9cba68bd83",
+    "revision": "20434ca5f3f1183c70e2",
     "url": "/DeepPortfolio/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "9ce03ab5618269f42319",
+    "revision": "0dd393bd2eedabfc8e60",
     "url": "/DeepPortfolio/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "cc49382a8706a7aeab4d",
-    "url": "/DeepPortfolio/static/css/main.45ed39ff.chunk.css"
+    "revision": "3e4694b4992113971ab1",
+    "url": "/DeepPortfolio/static/css/main.e335818c.chunk.css"
   },
   {
-    "revision": "f32efcda58b21f812ff1",
-    "url": "/DeepPortfolio/static/js/2.9a8bb343.chunk.js"
+    "revision": "cac9f26fc28d7df05f6d",
+    "url": "/DeepPortfolio/static/js/2.d9420015.chunk.js"
   },
   {
-    "revision": "6a5487993f9cba68bd83",
-    "url": "/DeepPortfolio/static/js/3.a9a84ba8.chunk.js"
+    "revision": "20434ca5f3f1183c70e2",
+    "url": "/DeepPortfolio/static/js/3.cbf0ff80.chunk.js"
   },
   {
-    "revision": "9ce03ab5618269f42319",
-    "url": "/DeepPortfolio/static/js/4.d1e2919e.chunk.js"
+    "revision": "0dd393bd2eedabfc8e60",
+    "url": "/DeepPortfolio/static/js/4.a0fee782.chunk.js"
   },
   {
-    "revision": "cc49382a8706a7aeab4d",
-    "url": "/DeepPortfolio/static/js/main.e03f16d2.chunk.js"
+    "revision": "3e4694b4992113971ab1",
+    "url": "/DeepPortfolio/static/js/main.4a9afde4.chunk.js"
   },
   {
-    "revision": "0e8c167f6d9a4e6759c3",
-    "url": "/DeepPortfolio/static/js/runtime-main.f61b306f.js"
+    "revision": "d4c95a74fd5605a159e1",
+    "url": "/DeepPortfolio/static/js/runtime-main.44b454a0.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -70,9 +70,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/DeepPortfolio/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "3440939881da8339d1597e8d77cdf850",
-    "url": "/DeepPortfolio/static/media/skill.34409398.svg"
   }
 ]);

@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90241939bd937de7226414278c0c5fad",
+    "revision": "2bcb4dc76f7a6abf62972dabbfd6db19",
     "url": "/DeepPortfolio/index.html"
   },
   {
-    "revision": "20434ca5f3f1183c70e2",
+    "revision": "ff2e2fb294b6dba7b869",
     "url": "/DeepPortfolio/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "0dd393bd2eedabfc8e60",
+    "revision": "b9a6737e704a5406c023",
     "url": "/DeepPortfolio/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "3e4694b4992113971ab1",
-    "url": "/DeepPortfolio/static/css/main.e335818c.chunk.css"
+    "revision": "cc1f814ed2d2013ac842",
+    "url": "/DeepPortfolio/static/css/main.690feb71.chunk.css"
   },
   {
-    "revision": "cac9f26fc28d7df05f6d",
-    "url": "/DeepPortfolio/static/js/2.d9420015.chunk.js"
+    "revision": "a1dcbffc129a3e27a3d3",
+    "url": "/DeepPortfolio/static/js/2.47d02496.chunk.js"
   },
   {
-    "revision": "20434ca5f3f1183c70e2",
-    "url": "/DeepPortfolio/static/js/3.cbf0ff80.chunk.js"
+    "revision": "ff2e2fb294b6dba7b869",
+    "url": "/DeepPortfolio/static/js/3.9fa68f5f.chunk.js"
   },
   {
-    "revision": "0dd393bd2eedabfc8e60",
-    "url": "/DeepPortfolio/static/js/4.a0fee782.chunk.js"
+    "revision": "b9a6737e704a5406c023",
+    "url": "/DeepPortfolio/static/js/4.15d1dada.chunk.js"
   },
   {
-    "revision": "3e4694b4992113971ab1",
-    "url": "/DeepPortfolio/static/js/main.4a9afde4.chunk.js"
+    "revision": "cc1f814ed2d2013ac842",
+    "url": "/DeepPortfolio/static/js/main.109de3ac.chunk.js"
   },
   {
-    "revision": "d4c95a74fd5605a159e1",
-    "url": "/DeepPortfolio/static/js/runtime-main.44b454a0.js"
+    "revision": "f466fc1fa5a374fb4abf",
+    "url": "/DeepPortfolio/static/js/runtime-main.cd0272d3.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/DeepPortfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "fdc7d97e506f1122084b3d260066e177",
+    "url": "/DeepPortfolio/static/media/NodejsOriginalWordmark.fdc7d97e.svg"
   },
   {
     "revision": "6260e6ed4600157055498824a340c1b4",

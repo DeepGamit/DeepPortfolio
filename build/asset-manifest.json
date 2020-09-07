@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/DeepPortfolio/static/css/main.50a6cadf.chunk.css",
+    "main.js": "/DeepPortfolio/static/js/main.109de3ac.chunk.js",
+    "main.js.map": "/DeepPortfolio/static/js/main.109de3ac.chunk.js.map",
+    "runtime-main.js": "/DeepPortfolio/static/js/runtime-main.cd0272d3.js",
+    "runtime-main.js.map": "/DeepPortfolio/static/js/runtime-main.cd0272d3.js.map",
+    "static/js/2.47d02496.chunk.js": "/DeepPortfolio/static/js/2.47d02496.chunk.js",
+    "static/js/2.47d02496.chunk.js.map": "/DeepPortfolio/static/js/2.47d02496.chunk.js.map",
+    "static/css/3.c7b31c95.chunk.css": "/DeepPortfolio/static/css/3.c7b31c95.chunk.css",
+    "static/js/3.9fa68f5f.chunk.js": "/DeepPortfolio/static/js/3.9fa68f5f.chunk.js",
+    "static/js/3.9fa68f5f.chunk.js.map": "/DeepPortfolio/static/js/3.9fa68f5f.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/DeepPortfolio/static/css/4.54df59d4.chunk.css",
+    "static/js/4.15d1dada.chunk.js": "/DeepPortfolio/static/js/4.15d1dada.chunk.js",
+    "static/js/4.15d1dada.chunk.js.map": "/DeepPortfolio/static/js/4.15d1dada.chunk.js.map",
+    "index.html": "/DeepPortfolio/index.html",
+    "precache-manifest.6fd28d56bbe7e590b4ef79fcebffb89c.js": "/DeepPortfolio/precache-manifest.6fd28d56bbe7e590b4ef79fcebffb89c.js",
+    "service-worker.js": "/DeepPortfolio/service-worker.js",
+    "static/css/3.c7b31c95.chunk.css.map": "/DeepPortfolio/static/css/3.c7b31c95.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/DeepPortfolio/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.50a6cadf.chunk.css.map": "/DeepPortfolio/static/css/main.50a6cadf.chunk.css.map",
+    "static/media/index.css": "/DeepPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/NodejsOriginalWordmark.svg": "/DeepPortfolio/static/media/NodejsOriginalWordmark.fdc7d97e.svg",
+    "static/media/aws_cloud.png": "/DeepPortfolio/static/media/aws_cloud.6260e6ed.png",
+    "static/media/contactMail.webp": "/DeepPortfolio/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/DeepPortfolio/static/media/developerActivity.59389695.svg",
+    "static/media/dhirubhai.png": "/DeepPortfolio/static/media/dhirubhai.257721d6.png",
+    "static/media/jp_virtual.jpg": "/DeepPortfolio/static/media/jp_virtual.7fb59d33.jpg",
+    "static/media/logo.svg": "/DeepPortfolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/DeepPortfolio/static/media/manOnTable.52be3144.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd0272d3.js",
+    "static/js/2.47d02496.chunk.js",
+    "static/css/main.50a6cadf.chunk.css",
+    "static/js/main.109de3ac.chunk.js"
+  ]
+}

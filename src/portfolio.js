@@ -11,7 +11,7 @@ const greeting = {
   username: "Deep Gamit",
   title: "Hi, I'm Deep",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀 having an experience of building Web Applications with JavaScript / Reactjs / Nodejs / Redux and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/15zDg17DEXKrIO0kiJsUv0QuefZl2yMFk/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1zrYxIg9ZIxKdcVJuiLs_iT7NcnfS-3mQ/view?usp=sharing"
 };
 
 // Your Social Media Link

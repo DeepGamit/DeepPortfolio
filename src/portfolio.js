@@ -48,16 +48,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "devicon-java-plain"
     },
     {
-      skillName: "html5",
+      skillName: "Html5",
       fontAwesomeClassname: "devicon-html5-plain"
     },
     {
-      skillName: "css3",
+      skillName: "Css3",
       fontAwesomeClassname: "devicon-css3-plain"
-    },
-    {
-      skillName: "Bootstrap",
-      fontAwesomeClassname: "devicon-bootstrap-plain"
     },
     {
       skillName: "JavaScript",
@@ -76,24 +72,28 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "devicon-express-original"
     },
     {
-      skillName: "jQuery",
-      fontAwesomeClassname: "devicon-jquery-plain"
+      skillName: "Bootstrap",
+      fontAwesomeClassname: "devicon-bootstrap-plain"
+    },
+    {
+      skillName: "MySQL",
+      fontAwesomeClassname: "devicon-mysql-plain"
     },
     {
       skillName: "MongoDB",
       fontAwesomeClassname: "devicon-mongodb-plain"
     },
     {
-      skillName: "Python",
-      fontAwesomeClassname: "devicon-python-plain"
+      skillName: "AWS",
+      fontAwesomeClassname: "devicon-amazonwebservices-plain"
     },
     {
-      skillName: "TypeScript",
-      fontAwesomeClassname: "devicon-typescript-plain"
+      skillName: "Sequelize",
+      fontAwesomeClassname: "devicon-sequelize-plain"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "Git",
+      fontAwesomeClassname: "devicon-git-plain"
     },
     {
       skillName: "Visual Studio",
@@ -105,37 +105,37 @@ https://fontawesome.com/icons?d=gallery */
       {
         title: "Programming Languages",
         content : [
-          "Java", "JavaScript[ES6]", "SQL", "TypeScript", "Python", "C++", "C"
+          "Java", "JavaScript[ES6]", "SQL", "Shell Scripting", "Python", "C++"
         ]
       }, 
       {
         title: "Web Technologies",
         content : [
-          "HTML5", "CSS3", "Bootstrap", "ReactJs", "NodeJs", "jQuery", "ExpressJs", "Redux", "JSX", "RESTful API", "GraphQL", "JSON"
+          "HTML5", "CSS3", "Bootstrap", "ReactJs", "NodeJs", "ExpressJs", "Sequelize", "Redux", "JSX", "RESTful API", "GraphQL", "JSON"
         ]
       }, 
       {
         title: "Java / J2EE",
         content : [
-          "Spring MVC", "Hibernate ORM", "JSP", "Servlets", "JSTL", "JavaBeans", "XML", "Maven"
+          "Spring MVC", "Hibernate ORM", "Maven", "Apache Tomcat", "JSP", "Servlets", "JSTL", "JavaBeans", "XML", 
         ]
       },
       {
         title: "Database",
         content : [
-          "MySQL", "JDBC", "MongoDB", "PostgreSQL", "Firebase", "phpMyAdmin", "DB4O"
+          "MySQL", "JDBC", "MongoDB", "PostgreSQL", "Firebase", "MS SQL"
         ]
       },
       {
         title: "Tools / Software",
         content : [
-          "Netbeans", "Visual Studio Code", "Eclipse", "Spring Tool Suite", "Apache Tomcat", "Postman", "Visual Studio Team Services", "Jupyter Notebook"
+          "Git", "GitHub Actions", "Terraform", "Packer", "Netbeans", "Visual Studio Code", "Eclipse", "Spring Tool Suite", "Postman", "Bitbucket"
         ]
       },
       {
-        title: "Miscellaneous",
+        title: "AWS Services",
         content : [
-          "Git", "AWS", "StarUML"
+          "IAM", "EC2", "VPC", "S3", "RDS", "CodeDeploy", "Route53"
         ]
       }
   ]
